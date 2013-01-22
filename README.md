@@ -34,7 +34,7 @@ EXAMPLES
 --------
 This is a pure example of obtaining data. This will NOT embed the player automatically, you will have to do it by your own.
 
-```js
+```html
 <div class="videocontainer"></div>
 <script type="text/javascript">
 	$('.videocontainer').youtubeLiveFeed({
