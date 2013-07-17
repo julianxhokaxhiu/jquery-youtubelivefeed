@@ -21,7 +21,7 @@ getComments(callback([data])): this method will give you all the comments of you
 clearLiveCheck(): this method will clear the live check interval set if no one is detected the first time this plugin will be used.
 
 ###LICENSE
-This plugin is licensed as GPLv3. Read the attached LICENSE file for major informations.
+This plugin is licensed as MIT. Read the attached LICENSE file for major informations.
 
 ###EXAMPLES
 This is a pure example of obtaining data. This will NOT embed the player automatically, you will have to do it by your own.
